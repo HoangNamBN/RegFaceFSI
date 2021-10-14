@@ -1,0 +1,126 @@
+D:\FSI\Distance\Distance\bin\Release\Distance.exe.config
+D:\FSI\Distance\Distance\bin\Release\Distance.exe
+D:\FSI\Distance\Distance\bin\Release\Distance.pdb
+D:\FSI\Distance\Distance\obj\Release\Distance.csprojAssemblyReference.cache
+D:\FSI\Distance\Distance\obj\Release\Distance.Form1.resources
+D:\FSI\Distance\Distance\obj\Release\Distance.Properties.Resources.resources
+D:\FSI\Distance\Distance\obj\Release\Distance.csproj.GenerateResource.cache
+D:\FSI\Distance\Distance\obj\Release\Distance.csproj.CoreCompileInputs.cache
+D:\FSI\Distance\Distance\obj\Release\Distance.csproj.CopyComplete
+D:\FSI\Distance\Distance\obj\Release\Distance.exe
+D:\FSI\Distance\Distance\obj\Release\Distance.pdb
+C:\Users\Nam10\OneDrive\Máy tính\Distance\Distance\bin\Release\Distance.exe.config
+C:\Users\Nam10\OneDrive\Máy tính\Distance\Distance\bin\Release\Distance.exe
+C:\Users\Nam10\OneDrive\Máy tính\Distance\Distance\bin\Release\Distance.pdb
+C:\Users\Nam10\OneDrive\Máy tính\Distance\Distance\obj\Release\Distance.csprojAssemblyReference.cache
+C:\Users\Nam10\OneDrive\Máy tính\Distance\Distance\obj\Release\Distance.Form1.resources
+C:\Users\Nam10\OneDrive\Máy tính\Distance\Distance\obj\Release\Distance.Properties.Resources.resources
+C:\Users\Nam10\OneDrive\Máy tính\Distance\Distance\obj\Release\Distance.csproj.GenerateResource.cache
+C:\Users\Nam10\OneDrive\Máy tính\Distance\Distance\obj\Release\Distance.csproj.CoreCompileInputs.cache
+C:\Users\Nam10\OneDrive\Máy tính\Distance\Distance\obj\Release\Distance.csproj.CopyComplete
+C:\Users\Nam10\OneDrive\Máy tính\Distance\Distance\obj\Release\Distance.exe
+C:\Users\Nam10\OneDrive\Máy tính\Distance\Distance\obj\Release\Distance.pdb
+C:\Users\Nam10\OneDrive\Máy tính\Distance\Distance\bin\Release\FaceRecognitionDotNet.dll
+C:\Users\Nam10\OneDrive\Máy tính\Distance\Distance\bin\Release\DlibDotNet.dll
+C:\Users\Nam10\OneDrive\Máy tính\Distance\Distance\bin\Release\FaceRecognitionDotNet.pdb
+C:\Users\Nam10\OneDrive\Máy tính\Distance\Distance\bin\Release\DlibDotNet.pdb
+D:\FSI\Distance\Distance\obj\Release\Distance.FaceRecognition_FSI.resources
+D:\FSI\Distance\Distance\bin\Release\DlibDotNet.dll
+D:\FSI\Distance\Distance\bin\Release\FaceRecognitionDotNet.dll
+D:\FSI\Distance\Distance\bin\Release\Microsoft.Win32.Primitives.dll
+D:\FSI\Distance\Distance\bin\Release\netstandard.dll
+D:\FSI\Distance\Distance\bin\Release\System.AppContext.dll
+D:\FSI\Distance\Distance\bin\Release\System.Collections.Concurrent.dll
+D:\FSI\Distance\Distance\bin\Release\System.Collections.dll
+D:\FSI\Distance\Distance\bin\Release\System.Collections.NonGeneric.dll
+D:\FSI\Distance\Distance\bin\Release\System.Collections.Specialized.dll
+D:\FSI\Distance\Distance\bin\Release\System.ComponentModel.dll
+D:\FSI\Distance\Distance\bin\Release\System.ComponentModel.EventBasedAsync.dll
+D:\FSI\Distance\Distance\bin\Release\System.ComponentModel.Primitives.dll
+D:\FSI\Distance\Distance\bin\Release\System.ComponentModel.TypeConverter.dll
+D:\FSI\Distance\Distance\bin\Release\System.Console.dll
+D:\FSI\Distance\Distance\bin\Release\System.Data.Common.dll
+D:\FSI\Distance\Distance\bin\Release\System.Diagnostics.Contracts.dll
+D:\FSI\Distance\Distance\bin\Release\System.Diagnostics.Debug.dll
+D:\FSI\Distance\Distance\bin\Release\System.Diagnostics.FileVersionInfo.dll
+D:\FSI\Distance\Distance\bin\Release\System.Diagnostics.Process.dll
+D:\FSI\Distance\Distance\bin\Release\System.Diagnostics.StackTrace.dll
+D:\FSI\Distance\Distance\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+D:\FSI\Distance\Distance\bin\Release\System.Diagnostics.Tools.dll
+D:\FSI\Distance\Distance\bin\Release\System.Diagnostics.TraceSource.dll
+D:\FSI\Distance\Distance\bin\Release\System.Diagnostics.Tracing.dll
+D:\FSI\Distance\Distance\bin\Release\System.Drawing.Primitives.dll
+D:\FSI\Distance\Distance\bin\Release\System.Dynamic.Runtime.dll
+D:\FSI\Distance\Distance\bin\Release\System.Globalization.Calendars.dll
+D:\FSI\Distance\Distance\bin\Release\System.Globalization.dll
+D:\FSI\Distance\Distance\bin\Release\System.Globalization.Extensions.dll
+D:\FSI\Distance\Distance\bin\Release\System.IO.Compression.dll
+D:\FSI\Distance\Distance\bin\Release\System.IO.Compression.ZipFile.dll
+D:\FSI\Distance\Distance\bin\Release\System.IO.dll
+D:\FSI\Distance\Distance\bin\Release\System.IO.FileSystem.dll
+D:\FSI\Distance\Distance\bin\Release\System.IO.FileSystem.DriveInfo.dll
+D:\FSI\Distance\Distance\bin\Release\System.IO.FileSystem.Primitives.dll
+D:\FSI\Distance\Distance\bin\Release\System.IO.FileSystem.Watcher.dll
+D:\FSI\Distance\Distance\bin\Release\System.IO.IsolatedStorage.dll
+D:\FSI\Distance\Distance\bin\Release\System.IO.MemoryMappedFiles.dll
+D:\FSI\Distance\Distance\bin\Release\System.IO.Pipes.dll
+D:\FSI\Distance\Distance\bin\Release\System.IO.UnmanagedMemoryStream.dll
+D:\FSI\Distance\Distance\bin\Release\System.Linq.dll
+D:\FSI\Distance\Distance\bin\Release\System.Linq.Expressions.dll
+D:\FSI\Distance\Distance\bin\Release\System.Linq.Parallel.dll
+D:\FSI\Distance\Distance\bin\Release\System.Linq.Queryable.dll
+D:\FSI\Distance\Distance\bin\Release\System.Net.Http.dll
+D:\FSI\Distance\Distance\bin\Release\System.Net.NameResolution.dll
+D:\FSI\Distance\Distance\bin\Release\System.Net.NetworkInformation.dll
+D:\FSI\Distance\Distance\bin\Release\System.Net.Ping.dll
+D:\FSI\Distance\Distance\bin\Release\System.Net.Primitives.dll
+D:\FSI\Distance\Distance\bin\Release\System.Net.Requests.dll
+D:\FSI\Distance\Distance\bin\Release\System.Net.Security.dll
+D:\FSI\Distance\Distance\bin\Release\System.Net.Sockets.dll
+D:\FSI\Distance\Distance\bin\Release\System.Net.WebHeaderCollection.dll
+D:\FSI\Distance\Distance\bin\Release\System.Net.WebSockets.Client.dll
+D:\FSI\Distance\Distance\bin\Release\System.Net.WebSockets.dll
+D:\FSI\Distance\Distance\bin\Release\System.ObjectModel.dll
+D:\FSI\Distance\Distance\bin\Release\System.Reflection.dll
+D:\FSI\Distance\Distance\bin\Release\System.Reflection.Extensions.dll
+D:\FSI\Distance\Distance\bin\Release\System.Reflection.Primitives.dll
+D:\FSI\Distance\Distance\bin\Release\System.Resources.Reader.dll
+D:\FSI\Distance\Distance\bin\Release\System.Resources.ResourceManager.dll
+D:\FSI\Distance\Distance\bin\Release\System.Resources.Writer.dll
+D:\FSI\Distance\Distance\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+D:\FSI\Distance\Distance\bin\Release\System.Runtime.dll
+D:\FSI\Distance\Distance\bin\Release\System.Runtime.Extensions.dll
+D:\FSI\Distance\Distance\bin\Release\System.Runtime.Handles.dll
+D:\FSI\Distance\Distance\bin\Release\System.Runtime.InteropServices.dll
+D:\FSI\Distance\Distance\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FSI\Distance\Distance\bin\Release\System.Runtime.Numerics.dll
+D:\FSI\Distance\Distance\bin\Release\System.Runtime.Serialization.Formatters.dll
+D:\FSI\Distance\Distance\bin\Release\System.Runtime.Serialization.Json.dll
+D:\FSI\Distance\Distance\bin\Release\System.Runtime.Serialization.Primitives.dll
+D:\FSI\Distance\Distance\bin\Release\System.Runtime.Serialization.Xml.dll
+D:\FSI\Distance\Distance\bin\Release\System.Security.Claims.dll
+D:\FSI\Distance\Distance\bin\Release\System.Security.Cryptography.Algorithms.dll
+D:\FSI\Distance\Distance\bin\Release\System.Security.Cryptography.Csp.dll
+D:\FSI\Distance\Distance\bin\Release\System.Security.Cryptography.Encoding.dll
+D:\FSI\Distance\Distance\bin\Release\System.Security.Cryptography.Primitives.dll
+D:\FSI\Distance\Distance\bin\Release\System.Security.Cryptography.X509Certificates.dll
+D:\FSI\Distance\Distance\bin\Release\System.Security.Principal.dll
+D:\FSI\Distance\Distance\bin\Release\System.Security.SecureString.dll
+D:\FSI\Distance\Distance\bin\Release\System.Text.Encoding.dll
+D:\FSI\Distance\Distance\bin\Release\System.Text.Encoding.Extensions.dll
+D:\FSI\Distance\Distance\bin\Release\System.Text.RegularExpressions.dll
+D:\FSI\Distance\Distance\bin\Release\System.Threading.dll
+D:\FSI\Distance\Distance\bin\Release\System.Threading.Overlapped.dll
+D:\FSI\Distance\Distance\bin\Release\System.Threading.Tasks.dll
+D:\FSI\Distance\Distance\bin\Release\System.Threading.Tasks.Parallel.dll
+D:\FSI\Distance\Distance\bin\Release\System.Threading.Thread.dll
+D:\FSI\Distance\Distance\bin\Release\System.Threading.ThreadPool.dll
+D:\FSI\Distance\Distance\bin\Release\System.Threading.Timer.dll
+D:\FSI\Distance\Distance\bin\Release\System.ValueTuple.dll
+D:\FSI\Distance\Distance\bin\Release\System.Xml.ReaderWriter.dll
+D:\FSI\Distance\Distance\bin\Release\System.Xml.XDocument.dll
+D:\FSI\Distance\Distance\bin\Release\System.Xml.XmlDocument.dll
+D:\FSI\Distance\Distance\bin\Release\System.Xml.XmlSerializer.dll
+D:\FSI\Distance\Distance\bin\Release\System.Xml.XPath.dll
+D:\FSI\Distance\Distance\bin\Release\System.Xml.XPath.XDocument.dll
+D:\FSI\Distance\Distance\obj\Release\Distance.exe.config
